@@ -1,0 +1,12 @@
+https://chandrikadeb7.github.io/#about
+https://github.com/bchiang7/v4
+https://brittanychiang.com/resume.pdf
+https://brittanychiang.com/#about
+
+how to make a link - <a href="http://html5up.net">HTML5 UP</a>
+
+https://www.geeksforgeeks.org/how-to-build-portfolio-website-and-host-it-on-github-pages/
+
+https://www.georgesatalla.com/
+
+https://mayank0255.github.io/#skills
